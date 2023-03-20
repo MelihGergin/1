@@ -1,1 +1,8 @@
+print("\nFirmanın İlk 4 Ay Satış Adedi")
 
+liste=[0,"Ocak 12.000", "Şubat 13.500", "Mart 11.000", "Nisan 9.500"]
+
+a=int(input("Hangi ayın satış adetini görmek istiyorsunuz?"))
+
+b=liste[a]
+print(b)
