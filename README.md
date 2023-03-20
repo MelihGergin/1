@@ -1,1 +1,1 @@
-# 1
+# Firmanın satış adetini gösteren kod.
