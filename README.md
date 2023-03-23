@@ -1,1 +1,1 @@
-# Firmanın aylık satış adetini gösteren kod.
+# Firmanın aylık satış adetini gösteren kod
